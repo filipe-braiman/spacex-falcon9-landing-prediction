@@ -5,7 +5,8 @@ numpy
 beautifulsoup4
 sqlalchemy
 ipython-sql
-ipython-sql prettytable
+ipython-sql 
+prettytable
 seaborn
 matplotlib
 folium
